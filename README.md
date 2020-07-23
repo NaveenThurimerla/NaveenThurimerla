@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Twitley (Python-based web application for sentiment analysis of your posts on twitter)
+- 🔭 I’m currently working on  [Twitley](https://github.com/NaveenThurimerla/twitley)
 - 🌱 I’m currently learning kubernetes and Docker
 - 👯 I’m looking to collaborate on Open-Source projects
 - 🤔 I’m looking for help with Guidance for contributing to Open-Source projects
