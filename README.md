@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NaveenThurimerla" alt="NaveenThurimerla" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nawinto99" target="blank"><img src="https://img.shields.io/twitter/follow/NaveenThurimerla?logo=twitter&style=for-the-badge" alt="NaveenThurimerla" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nawinto99" target="blank"><img src="https://img.shields.io/twitter/follow/nawinto99?logo=twitter&style=for-the-badge" alt="nawinto99" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
